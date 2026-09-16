@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(255, 174, 0);
+     font-family: "UnifrakturCook", cursive; 
+}
+
+.site-name {
+    font-weight: 100;
+    font-size: 60px;
+    line-height: -.5;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.section-name{
+color: blue;
+}
+
+.address {
+     font-family: "Roboto", sans-serif;  
+    text-align: right;
+}
+
+.call-out{
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+}
+
